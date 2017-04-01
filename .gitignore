@@ -1,1 +1,7 @@
 CRLDemoApp/Debug
+*.opensdf
+*.sdf
+*.suo
+*.filters
+*.user
+*.ipch
